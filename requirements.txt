@@ -2,7 +2,7 @@ torch
 pydicom
 Pillow
 numpy
-cv2
+opencv-python
 ipywidgets
 xnat
 ipycanvas
