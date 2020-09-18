@@ -16,8 +16,8 @@ else:
     print('running on CPU')
 
 class TrainingDataGetter():
-    TEXT = os.path.join('Training Data', 'Text')
-    NOTEXT = os.path.join('Training Data', 'No Text')
+    TEXT = os.path.join('..', 'Training-Data-Creator', 'Alt Training Data', 'Text')
+    NOTEXT = os.path.join('..', 'Training-Data-Creator', 'Alt Training Data', 'No Text')
     LABELS = {TEXT: 0, NOTEXT: 1}
 
     training_data = []

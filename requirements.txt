@@ -1,0 +1,8 @@
+torch
+pydicom
+PIL
+numpy
+cv2
+ipywidgets
+xnat
+ipycanvas
