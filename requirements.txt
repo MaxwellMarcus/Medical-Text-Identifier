@@ -1,6 +1,6 @@
 torch
 pydicom
-PIL
+Pillow
 numpy
 cv2
 ipywidgets
