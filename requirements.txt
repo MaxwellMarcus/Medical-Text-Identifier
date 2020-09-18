@@ -6,3 +6,4 @@ opencv-python
 ipywidgets
 xnat
 ipycanvas
+hide_code
